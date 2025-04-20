@@ -1,7 +1,7 @@
-# 👋 Welcome to my GitHub! I'm Krishna Vamsi Chelluboina, a Software Engineer with over 2 years of experience specializing in Fullstack Development at Accenture. With a Master’s in Information Technology, I thrive on solving complex problems and driving innovation through technology. Explore my projects to see how I turn challenges into opportunities for growth and impact.
+Welcome to my GitHub! I'm Krishna Vamsi Chelluboina, a Software Engineer with over 2 years of experience specializing in Fullstack Development at Accenture. With a Master’s in Information Technology, I thrive on solving complex problems and driving innovation through technology. Explore my projects to see how I turn challenges into opportunities for growth and impact.
 
-🚀 Full Stack Developer | Python & JavaScript Specialist | Cloud-Enabled | Building AI-Powered Solutions  
-🎓 MS in Information Technology – Pace University | 🌍 Jersey City, NJ | 💼 Open to Full-Time Opportunities  
+🚀 Full Stack Developer | Python & JavaScript Specialist | Cloud-Enabled | Building AI-Powered Solutions   
+🎓 MS in Information Technology – St. Francis College | 🌍 Jersey City, NJ | 💼 Open to Full-Time Opportunities  
 
 ---
 

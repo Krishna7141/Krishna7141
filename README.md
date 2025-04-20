@@ -81,9 +81,9 @@ I’m a developer who bridges the gap between **frontend elegance** and **backen
 ## 🔗 Let’s Connect
 
 - 📧 Email: **krishnavamsich2000@gmail.com**  
-- 🌍 Portfolio: [krishnavamsi-portfolio.netlify.app](https://krishnavamsi-portfolio.netlify.app)  
-- 💼 LinkedIn: [linkedin.com/in/krishna-chelluboina](https://www.linkedin.com/in/krishna-chelluboina/)  
-- 🧑‍💻 GitHub: [Krishna7141](https://github.com/Krishna7141)
+- 🌍 Portfolio: https://krishnavamsi-portfolio.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/krishna-chelluboina/
+- 🧑‍💻 GitHub: https://github.com/Krishna7141
 
 ---
 

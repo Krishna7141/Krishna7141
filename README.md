@@ -73,7 +73,7 @@ I’m a developer who bridges the gap between **frontend elegance** and **backen
 
 ## 📈 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna7141&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna7141&layout=compact&theme=tokyonight)
 
 ---
